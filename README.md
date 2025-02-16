@@ -97,10 +97,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-Now you can push this project to GitHub:
-```sh
-git add .
-git commit -m "Initial commit"
-git push origin main
-```
+
 
